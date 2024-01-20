@@ -1,0 +1,14 @@
+{
+  "eggs": [
+    {
+      "eggId": 1,
+      "eggName": "Kaleo Way Down We Go",
+      "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Way-Down-We-Go_320.mp3"
+    },
+    {
+        "eggId": 2,
+        "eggName": "Kaleo Way Down We Go",
+        "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Hymn-For-The-Weekend.mp3"
+    }
+  ]
+}
