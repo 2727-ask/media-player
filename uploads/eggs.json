@@ -12,8 +12,13 @@
     },
     {
         "eggId": 3,
-        "eggName": "Mood Booster 1",
-        "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Mood Booster 1.m4a"
-    }
+        "eggName": "Unstoppable",
+        "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Unstoppable.mp4"
+    },
+    {
+        "eggId": 4,
+        "eggName": "Baby Calm Down",
+        "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Baby-Calm-Down.mp3"
+    } 
   ]
 }
