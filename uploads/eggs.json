@@ -19,6 +19,11 @@
         "eggId": 4,
         "eggName": "Baby Calm Down",
         "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Baby-Calm-Down.mp3"
-    } 
+    },
+    {
+        "eggId": 5,
+        "eggName": "Baby Calm Down",
+        "eggPath": "https://raw.githubusercontent.com/2727-ask/media-player/main/uploads/Illuminati_320.mp3"
+    }
   ]
 }
